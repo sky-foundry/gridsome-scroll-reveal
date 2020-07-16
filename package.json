@@ -1,6 +1,6 @@
 {
   "name": "@sky-foundry/gridsome-scroll-reveal",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "A Gridsome Vue directive to wrap @jlmake's excellent ScrollReveal library.",
   "keywords": [
     "vue",
